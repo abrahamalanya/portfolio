@@ -1,5 +1,8 @@
-### Hi there 👋
-
+### Hola 👋
+- 🔭 Actualmente estoy trabajando en Ripocc
+- 🌱 Actualmente estoy aprendiendo GIT
+- 📫 Pueden contactarme en: abrahamalanyap@gmail.com
+- 😄 Algunos pronombres: abalpo
 <!--
 **abrahamalanya/abrahamalanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
