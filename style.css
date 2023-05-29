@@ -346,3 +346,35 @@ a {
     background-color: #d3f5ce;
   }
 }
+
+/* responsive */
+@media (max-width: 600px) {
+  .aside {
+    display: none;
+  }
+
+  .main {
+    margin: 0;
+    grid-template-rows: 100vh repeat(4, auto);
+  }
+
+  .section {
+    padding: 0;
+  }
+
+  .welcome_text2 {
+    text-align: center;
+  }
+
+  .aboutme_picture {
+    display: none;
+  }
+
+  .aboutme_text {
+    text-align: center;
+  }
+
+  .gallery {
+    grid-template-columns: repeat(1, 1fr);
+  }
+}
